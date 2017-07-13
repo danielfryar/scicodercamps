@@ -1,6 +1,6 @@
-var gitHub= prompt  (Do you like github?)
+var gitHub= prompt  ("Do you like github?");
 if (gitHub == "yes"){
-alert(Awesome!);
+  alert("Awesome!");
 } else {
-  alert(Well...... like it!);
+  alert("Well...... like it!");
 }
