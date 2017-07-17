@@ -1,0 +1,39 @@
+body {
+  background-color: teal
+}
+h1 {
+  color:white
+}
+p {
+  color:black
+  display:block;
+  text-align:center;
+  font-family: fantasy;
+}
+ul{
+  font-family: fantasy;
+}
+li{
+  font-family: fantasy;
+}
+img{
+  display: block;
+  margin: auto;
+  padding-bottom: 25px;
+}
+footer{
+  border: 8px solid white;
+  text-align: center;
+  overflow: hidden;
+}
+a{
+  float:left;
+  text-align:center;
+  padding: 16px 18px;
+  border-left: 8px solid white;
+  border-right: 8px solid white;
+}
+a:hover{
+  background-color: white;
+  color:teal;
+}
