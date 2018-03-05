@@ -1,2 +1,2 @@
-document.body.style.backgroundColor = "hotpink";
-console.log("Hello teamgit!");
+document.body.style.backgroundColor = "green";
+console.log("Hello teamgit, welcome back again...!");
